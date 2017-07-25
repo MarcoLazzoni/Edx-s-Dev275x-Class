@@ -1,1 +1,2 @@
 Text added to demo.txt on the browser
+And edited locally on my device
